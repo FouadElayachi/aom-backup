@@ -5,7 +5,7 @@ sections:
     title: Le site est en cours de constuction
     subtitle: 'Pour remplir le formulaire:'
     actions:
-      - label: Learn More
+      - label: Remplir le formulaire
         url: /features
         style: primary
     align: left
