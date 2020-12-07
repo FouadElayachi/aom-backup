@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Le site est en cours de constuction
-    subtitle: 'Pour remplir le formulaire '
+    subtitle: 'Pour remplir le formulaire:'
     actions:
       - label: Learn More
         url: /features
