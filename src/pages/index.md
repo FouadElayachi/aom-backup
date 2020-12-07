@@ -9,6 +9,7 @@ sections:
         url: >-
           https://docs.google.com/forms/d/1_MMCq0TCZiS5TlBs_ivuW9F8Z0UNEmk8cRdjinMLu9M/prefill
         style: primary
+        new_window: true
     align: left
     image: images/hero.svg
     image_position: right
