@@ -6,7 +6,8 @@ sections:
     subtitle: 'Pour remplir le formulaire:'
     actions:
       - label: Remplir le formulaire
-        url: /features
+        url: >-
+          https://docs.google.com/forms/d/1_MMCq0TCZiS5TlBs_ivuW9F8Z0UNEmk8cRdjinMLu9M/prefill
         style: primary
     align: left
     image: images/hero.svg
