@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Le site est en cours de constuction
-    subtitle: 'للحصول على قرض شرف:'
+    subtitle: للحصول على قرض شرف
     actions:
       - label: Remplir le formulaire
         url: >-
