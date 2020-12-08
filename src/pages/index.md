@@ -5,7 +5,7 @@ sections:
     title: Le site est en cours de constuction
     subtitle: للحصول على قرض شرف
     actions:
-      - label: Remplir le formulaire
+      - label: املأ الاستمارة
         url: >-
           https://docs.google.com/forms/d/1_MMCq0TCZiS5TlBs_ivuW9F8Z0UNEmk8cRdjinMLu9M/prefill
         style: primary
