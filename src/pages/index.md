@@ -11,7 +11,7 @@ sections:
         style: primary
         new_window: true
     align: left
-    image: images/hero.svg
+    image: images/diagonal-lines.svg
     image_position: left
     has_background: true
     background:
