@@ -7,7 +7,7 @@ sections:
     actions:
       - label: املأ الاستمارة
         url: >-
-          https://docs.google.com/forms/d/1_MMCq0TCZiS5TlBs_ivuW9F8Z0UNEmk8cRdjinMLu9M/prefill
+          https://docs.google.com/forms/d/e/1FAIpQLScP2mo0ECVXyfI7Yt1VAdBpF9DsEgg_HZYn7Zd2qJhaAc1YSg/viewform
         style: primary
         new_window: true
     align: left
